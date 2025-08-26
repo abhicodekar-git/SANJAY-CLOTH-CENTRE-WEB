@@ -1,0 +1,468 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Royal Silk Kurta",
+      "category": "mens",
+      "price": "₹4,999",
+      "description": "Exquisite handwoven silk kurta with gold thread embroidery. A masterpiece of traditional craftsmanship.",
+      "colors": [
+        {
+          "name": "Crimson",
+          "value": "#DC143C",
+          "images": [
+            "https://images.unsplash.com/photo-1583391733956-6c78276477e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+            "https://images.unsplash.com/photo-1602810316693-3667c854239a?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "Navy",
+          "value": "#000080",
+          "images": [
+            "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "Emerald",
+          "value": "#50C878",
+          "images": [
+            "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        }
+      ],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "availability": "In Stock",
+      "whatsapp_message": "Hi! I'm interested in the Royal Silk Kurta (₹4,999) in {color} size {size}. Please share more details."
+    },
+    {
+      "id": "2",
+      "name": "Premium Business Suit",
+      "category": "mens",
+      "price": "₹15,999",
+      "description": "Italian wool business suit tailored to perfection. Complete with jacket and trousers for the distinguished gentleman.",
+      "colors": [
+        {
+          "name": "Charcoal",
+          "value": "#36454F",
+          "images": [
+            "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+            "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "Navy",
+          "value": "#000080",
+          "images": [
+            "https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "Black",
+          "value": "#000000",
+          "images": [
+            "https://images.unsplash.com/photo-1605518216938-7c31b7b14ad0?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        }
+      ],
+      "sizes": ["36", "38", "40", "42", "44", "46"],
+      "availability": "Made to Order",
+      "whatsapp_message": "Hi! I'm interested in the Premium Business Suit (₹15,999) in {color} size {size}. Please share availability details."
+    },
+    {
+      "id": "3",
+      "name": "Executive Blazer",
+      "category": "mens",
+      "price": "₹7,999",
+      "description": "Sophisticated single-breasted blazer crafted from premium wool blend. Perfect for business meetings and formal events.",
+      "colors": [
+        {
+          "name": "Navy",
+          "value": "#000080",
+          "images": [
+            "https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+            "https://images.unsplash.com/photo-1594736797933-d0282ba17d78?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "Charcoal",
+          "value": "#36454F",
+          "images": [
+            "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        }
+      ],
+      "sizes": ["38", "40", "42", "44", "46"],
+      "availability": "In Stock",
+      "whatsapp_message": "Hi! I'm interested in the Executive Blazer (₹7,999) in {color} size {size}."
+    },
+    {
+      "id": "4",
+      "name": "Luxury Formal Shirt",
+      "category": "mens",
+      "price": "₹3,299",
+      "description": "Premium Egyptian cotton formal shirt with mother-of-pearl buttons. Exceptional comfort and style.",
+      "colors": [
+        {
+          "name": "White",
+          "value": "#FFFFFF",
+          "images": [
+            "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "Light Blue",
+          "value": "#ADD8E6",
+          "images": [
+            "https://images.unsplash.com/photo-1602810316693-3667c854239a?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "Pink",
+          "value": "#FFC0CB",
+          "images": [
+            "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        }
+      ],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "availability": "In Stock",
+      "whatsapp_message": "Hi! I'm interested in the Luxury Formal Shirt (₹3,299) in {color} size {size}."
+    },
+    {
+      "id": "5",
+      "name": "Designer Trousers",
+      "category": "mens",
+      "price": "₹2,999",
+      "description": "Tailored formal trousers with perfect fit and premium finish. Essential for the modern gentleman's wardrobe.",
+      "colors": [
+        {
+          "name": "Black",
+          "value": "#000000",
+          "images": [
+            "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "Charcoal",
+          "value": "#36454F",
+          "images": [
+            "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "Navy",
+          "value": "#000080",
+          "images": [
+            "https://images.unsplash.com/photo-1551028719-00167b16eac5?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        }
+      ],
+      "sizes": ["30", "32", "34", "36", "38", "40"],
+      "availability": "In Stock",
+      "whatsapp_message": "Hi! I'm interested in the Designer Trousers (₹2,999) in {color} size {size}."
+    },
+    {
+      "id": "6",
+      "name": "Premium Leather Belt",
+      "category": "mens",
+      "price": "₹1,599",
+      "description": "Genuine Italian leather belt with premium buckle. Essential accessory for the well-dressed gentleman.",
+      "colors": [
+        {
+          "name": "Black",
+          "value": "#000000",
+          "images": [
+            "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "Brown",
+          "value": "#A52A2A",
+          "images": [
+            "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        }
+      ],
+      "sizes": ["32", "34", "36", "38", "40", "42"],
+      "availability": "In Stock",
+      "whatsapp_message": "Hi! I'm interested in the Premium Leather Belt (₹1,599) in {color} size {size}."
+    },
+    {
+      "id": "7",
+      "name": "Silk Pocket Square",
+      "category": "mens",
+      "price": "₹899",
+      "description": "Elegant silk pocket square to complete your formal look. Adds sophistication to any outfit.",
+      "colors": [
+        {
+          "name": "Burgundy",
+          "value": "#800020",
+          "images": [
+            "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "Navy",
+          "value": "#000080",
+          "images": [
+            "https://images.unsplash.com/photo-1594736797933-d0282ba17d78?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "Silver",
+          "value": "#C0C0C0",
+          "images": [
+            "https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        }
+      ],
+      "sizes": ["Free Size"],
+      "availability": "In Stock",
+      "whatsapp_message": "Hi! I'm interested in the Silk Pocket Square (₹899) in {color}."
+    },
+    {
+      "id": "8",
+      "name": "Elegant Saree",
+      "category": "women",
+      "price": "₹8,999",
+      "description": "Handwoven silk saree with intricate gold border. Traditional elegance meets contemporary style.",
+      "colors": [
+        {
+          "name": "Crimson",
+          "value": "#DC143C",
+          "images": [
+            "https://images.unsplash.com/photo-1610030469983-98e550d6193c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "Royal Blue",
+          "value": "#4169E1",
+          "images": [
+            "https://images.unsplash.com/photo-1583391733956-6c78276477e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "Emerald",
+          "value": "#50C878",
+          "images": [
+            "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        }
+      ],
+      "sizes": ["Free Size"],
+      "availability": "In Stock",
+      "whatsapp_message": "Hi! I'm interested in the Elegant Saree (₹8,999) in {color}. Please share more details."
+    },
+    {
+      "id": "9",
+      "name": "Designer Kurti",
+      "category": "women",
+      "price": "₹2,499",
+      "description": "Contemporary kurti with ethnic prints. Perfect blend of comfort and style for modern women.",
+      "colors": [
+        {
+          "name": "Pink",
+          "value": "#FFC0CB",
+          "images": [
+            "https://images.unsplash.com/photo-1594736797933-d0282ba17d78?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "Turquoise",
+          "value": "#40E0D0",
+          "images": [
+            "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "Yellow",
+          "value": "#FFFF00",
+          "images": [
+            "https://images.unsplash.com/photo-1602810316693-3667c854239a?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        }
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "availability": "In Stock",
+      "whatsapp_message": "Hi! I'm interested in the Designer Kurti (₹2,499) in {color} size {size}."
+    },
+    {
+      "id": "10",
+      "name": "Formal Dress",
+      "category": "women",
+      "price": "₹4,999",
+      "description": "Sophisticated evening dress perfect for formal occasions. Elegant silhouette with premium fabric.",
+      "colors": [
+        {
+          "name": "Black",
+          "value": "#000000",
+          "images": [
+            "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "Navy",
+          "value": "#000080",
+          "images": [
+            "https://images.unsplash.com/photo-1551028719-00167b16eac5?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "Burgundy",
+          "value": "#800020",
+          "images": [
+            "https://images.unsplash.com/photo-1605518216938-7c31b7b14ad0?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        }
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "availability": "In Stock",
+      "whatsapp_message": "Hi! I'm interested in the Formal Dress (₹4,999) in {color} size {size}."
+    },
+    {
+      "id": "11",
+      "name": "Luxury Shawl",
+      "category": "women",
+      "price": "₹3,999",
+      "description": "Premium pashmina shawl with delicate embroidery. Perfect accessory for elegant occasions.",
+      "colors": [
+        {
+          "name": "Cream",
+          "value": "#F5F5DC",
+          "images": [
+            "https://images.unsplash.com/photo-1610030469983-98e550d6193c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "Burgundy",
+          "value": "#800020",
+          "images": [
+            "https://images.unsplash.com/photo-1605518216938-7c31b7b14ad0?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "Black",
+          "value": "#000000",
+          "images": [
+            "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        }
+      ],
+      "sizes": ["Free Size"],
+      "availability": "In Stock",
+      "whatsapp_message": "Hi! I'm interested in the Luxury Shawl (₹3,999) in {color}."
+    },
+    {
+      "id": "12",
+      "name": "Kids Coat Pant Set",
+      "category": "kids",
+      "price": "₹2,499",
+      "description": "Adorable formal wear for little gentlemen. Premium fabric with comfortable fit for special occasions.",
+      "colors": [
+        {
+          "name": "Navy",
+          "value": "#000080",
+          "images": [
+            "images/coat-pant-set-kids.jpg",
+            "https://images.unsplash.com/photo-1600195077907-c7435b1f1d35?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "Charcoal",
+          "value": "#36454F",
+          "images": [
+            "https://images.unsplash.com/photo-1600195077907-c7435b1f1d35?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        }
+      ],
+      "sizes": ["2-3Y", "4-5Y", "6-7Y", "8-9Y", "10-11Y"],
+      "availability": "In Stock",
+      "whatsapp_message": "Hi! I'm interested in the Kids Coat Pant Set (₹2,499) in {color} size {size}."
+    },
+    {
+      "id": "13",
+      "name": "Kids Formal Shirt",
+      "category": "kids",
+      "price": "₹1,299",
+      "description": "Smart formal shirt for young boys. Comfortable cotton fabric perfect for special events.",
+      "colors": [
+        {
+          "name": "White",
+          "value": "#FFFFFF",
+          "images": [
+            "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "Light Blue",
+          "value": "#ADD8E6",
+          "images": [
+            "https://images.unsplash.com/photo-1602810316693-3667c854239a?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        }
+      ],
+      "sizes": ["2-3Y", "4-5Y", "6-7Y", "8-9Y", "10-11Y"],
+      "availability": "In Stock",
+      "whatsapp_message": "Hi! I'm interested in the Kids Formal Shirt (₹1,299) in {color} size {size}."
+    },
+    {
+      "id": "14",
+      "name": "Kids Party Dress",
+      "category": "kids",
+      "price": "₹1,899",
+      "description": "Beautiful party dress for little princesses. Soft fabric with elegant design for special occasions.",
+      "colors": [
+        {
+          "name": "Pink",
+          "value": "#FFC0CB",
+          "images": [
+            "https://images.unsplash.com/photo-1594736797933-d0282ba17d78?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "Purple",
+          "value": "#800080",
+          "images": [
+            "https://images.unsplash.com/photo-1610030469983-98e550d6193c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "White",
+          "value": "#FFFFFF",
+          "images": [
+            "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        }
+      ],
+      "sizes": ["2-3Y", "4-5Y", "6-7Y", "8-9Y", "10-11Y"],
+      "availability": "In Stock",
+      "whatsapp_message": "Hi! I'm interested in the Kids Party Dress (₹1,899) in {color} size {size}."
+    },
+    {
+      "id": "15",
+      "name": "Designer Cufflinks",
+      "category": "mens",
+      "price": "₹799",
+      "description": "Premium metal cufflinks with intricate design. Perfect finishing touch for formal shirts.",
+      "colors": [
+        {
+          "name": "Gold",
+          "value": "#FFD700",
+          "images": [
+            "https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        },
+        {
+          "name": "Silver",
+          "value": "#C0C0C0",
+          "images": [
+            "https://images.unsplash.com/photo-1594736797933-d0282ba17d78?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+          ]
+        }
+      ],
+      "sizes": ["Free Size"],
+      "availability": "In Stock",
+      "whatsapp_message": "Hi! I'm interested in the Designer Cufflinks (₹799) in {color}."
+    }
+  ]
+}
